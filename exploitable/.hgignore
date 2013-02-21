@@ -1,0 +1,15 @@
+# use glob syntax.
+syntax: glob
+*.pyc
+.DS_Store
+tags
+ptags
+*.swp
+*.swo
+*.swn
+*~
+*.original
+*.bak
+*.orig
+.idea/*
+*.ropeproject
